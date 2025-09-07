@@ -12,3 +12,5 @@ js2.cdn.applicationinsights.io
 *.js2.cdn.applicationinsights.io
 js0.cdn.monitor.azure.com
 *.js0.cdn.monitor.azure.com
+browser.events.data.microsoft.com
+*.browser.events.data.microsoft.com
