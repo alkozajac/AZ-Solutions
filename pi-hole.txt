@@ -7,3 +7,8 @@ js.cdn.monitor.azure.com
 js2.cdn.monitor.azure.com
 js.monitor.azure.com
 js0.cdn.applicationinsights.io
+*.js2.cdn.monitor.azure.com
+js2.cdn.applicationinsights.io
+*.js2.cdn.applicationinsights.io
+js0.cdn.monitor.azure.com
+*.js0.cdn.monitor.azure.com
