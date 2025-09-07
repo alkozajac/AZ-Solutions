@@ -1,3 +1,6 @@
 *.azure.com
 *.azure.net
 api.applicationinsights.azure.com
+js.cdn.applicationinsights.io
+js.cdn.monitor.azure.com
+js2.cdn.monitor.azure.com
