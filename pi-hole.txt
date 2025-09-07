@@ -1,2 +1,3 @@
 *.azure.com
 *.azure.net
+api.applicationinsights.azure.com
